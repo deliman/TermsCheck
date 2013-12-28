@@ -1,0 +1,18 @@
+#copy and save file as orginal
+
+
+
+#copy and save file as updated every 4 hours
+
+
+#use beautiful soup to check for changes
+
+
+#if so send email to user
+
+
+
+
+'''
+much later I can try to give a warning to users on phrases in Terms of Agreement that may be a cause of concern
+'''
